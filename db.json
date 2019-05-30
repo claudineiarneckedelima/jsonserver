@@ -1,8 +1,11 @@
 
 {
-  "profile": {
-    "name": "Claudinei de Lima",
-    "email": "claudinei-de-lima@hotmail.com",
-    "cep": "88058092",
-  }
+  "profile": [
+    {
+      "id": 1,
+      "name": "Claudinei de Lima",
+      "email": "claudinei-de-lima@hotmail.com",
+      "cep": "88058092",
+    }
+  ]
 }
